@@ -27,14 +27,16 @@ The study assessed DT integration using the classification by Kritzinger et al.,
 - **A DT** features bidirectional data exchange, allowing real-time interaction between physical and digital entities.
 This classification was applied to understand the integration of DT in open-field agriculture, livestock, and forestry.
 
-![Data_Exchange](https://github.com/user-attachments/assets/e5060995-4038-44c4-8ef3-f142acbf3371)
+
+![Data_Exchange](https://github.com/user-attachments/assets/c8dfdebc-20a5-4fc2-a8f8-dee1622def2c)
 
 
 ### Maturity Level Assessment
 
 The study evaluated DT maturity using the European Union’s **Technology Readiness Level (TRL)** scale, categorizing DTs into Concept (initial phase), Prototype (functional prototype), and Deployed (operational settings). This structured approach informed the exploration of DT integration and its challenges, providing insights into the current state and future perspectives of DT technology.
 
-![TRL](https://github.com/user-attachments/assets/24a905a2-a52a-46aa-a77e-f262802ddbd1)
+
+![TRL](https://github.com/user-attachments/assets/699fd905-4fd2-4371-9998-b469dcea3b2a)
 
 
 ## Results
@@ -63,8 +65,9 @@ The review indicates a growing interest and applications of DTs in agriculture a
 ### To What Extent has DT Integration Been Achieved?
 
 The integration of DTs in the reviewed sectors shows progress but remains predominantly at the prototype and development stages. Most studies in open-field agriculture and livestock are at the DS level, indicating ongoing technological advancement and application maturity. Forestry-related applications also demonstrate progress but are mostly at the DM and DS levels, reflecting the complexity of integrating DTs in forestry systems.
+![Integration_Level_Distribution](https://github.com/user-attachments/assets/3266b7e0-61a3-4022-a805-55fcefa02eac)
 
-![Integration_Level_Distribution](https://github.com/user-attachments/assets/48a353f6-8c5b-408d-ac0e-65f42459fa63)
+
 
 ### What Are the Open Questions, Challenges, and Future Perspectives?
 
