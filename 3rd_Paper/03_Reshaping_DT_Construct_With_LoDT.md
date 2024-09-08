@@ -14,7 +14,8 @@ Research on digital twins has often focused narrowly on specific applications or
 
 Digital twinning, introduced by Michael Grieves in 2002, involves replicating physical objects and processes through digital technologies. The concept of digital twinning harmonizes discussions on DTs by emphasizing that mirroring physical assets digitally can manifest in multiple dimensions. 
 
-![Gemini_Principles](https://github.com/user-attachments/assets/08359ceb-9610-4a77-b42e-a91f1489201b)
+
+![Gemini_Principles](https://github.com/user-attachments/assets/6d084f95-dc06-4cd8-87b0-730f14c8dafb)
 
 
 ### Structural Elements
@@ -34,7 +35,8 @@ The proposed architecture builds upon Grieves' foundational elements, emphasizin
    - **Perception Generation**: Analyzes data to generate insights.
    - **Decision Making**: Uses insights for decision support.be automated or involve human intervention, depending on the purpose and structure defined for the physical asset.
 
-![Architecture](https://github.com/user-attachments/assets/a5b84e7d-9e77-4d2a-8605-804c621000b5)
+![Architecture](https://github.com/user-attachments/assets/40d1c589-7b48-46b9-899a-42252459385f)
+
 
 The **Information Value Chain** (Bolton et al., 2018) is present throughout the three layers of the virtual space. As data progresses through these layers, its volume decreases while its meaning and value increase, aligning with the DIKW hierarchy (data–information–knowledge–wisdom). In this transformation process, data collected from physical assets becomes digital assets, considered cognitive assets because they are necessary for converting individual knowledge into organizational knowledge and ensuring coordinated actions.
 
@@ -112,7 +114,8 @@ Various models have been proposed to assess the maturity and complexity of digit
 The proposed UNI-TWIN model for assessing the level of digital twinning of physical assets comprises nine dimensions: 
 Each dimension has its own level of complexity, ranging from "1" (least complex) to "5+" (most complex).
 
-![LoDT_Dimensions](https://github.com/user-attachments/assets/26875d8c-ddee-4190-9a27-b2b487cd7a90)
+
+![LoDT_Dimensions](https://github.com/user-attachments/assets/c5791f16-72b9-4d1f-ad70-7f21b0a688a1)
 
 
 ### Digital Twinning Dimensions
